@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlsalihiAziz
+- 👀 I’m interested in Data Analtyics
+- 🌱 I’m currently learning SQL, & R
+- 💞️ I’m looking to collaborate on entry level tasks
+- 📫 You can reach me though my github account.
